@@ -1,0 +1,22 @@
+C:\Users\Faslam maX\Documents\login screen\LoginScreen\LoginScreen\bin\Debug\LoginScreen.exe.config
+C:\Users\Faslam maX\Documents\login screen\LoginScreen\LoginScreen\bin\Debug\LoginScreen.exe
+C:\Users\Faslam maX\Documents\login screen\LoginScreen\LoginScreen\bin\Debug\LoginScreen.pdb
+C:\Users\Faslam maX\Documents\login screen\LoginScreen\LoginScreen\obj\Debug\LoginScreen.csprojResolveAssemblyReference.cache
+C:\Users\Faslam maX\Documents\login screen\LoginScreen\LoginScreen\obj\Debug\LoginScreen.Form1.resources
+C:\Users\Faslam maX\Documents\login screen\LoginScreen\LoginScreen\obj\Debug\LoginScreen.Properties.Resources.resources
+C:\Users\Faslam maX\Documents\login screen\LoginScreen\LoginScreen\obj\Debug\LoginScreen.csproj.GenerateResource.Cache
+C:\Users\Faslam maX\Documents\login screen\LoginScreen\LoginScreen\obj\Debug\LoginScreen.exe
+C:\Users\Faslam maX\Documents\login screen\LoginScreen\LoginScreen\obj\Debug\LoginScreen.pdb
+C:\Users\Faslam maX\Documents\login screen\LoginScreen\LoginScreen\obj\Debug\LoginScreen.Form2.resources
+C:\Users\User\Downloads\login\LoginScreen\LoginScreen\bin\Debug\LoginScreen.exe.config
+C:\Users\User\Downloads\login\LoginScreen\LoginScreen\bin\Debug\LoginScreen.exe
+C:\Users\User\Downloads\login\LoginScreen\LoginScreen\bin\Debug\LoginScreen.pdb
+C:\Users\User\Downloads\login\LoginScreen\LoginScreen\obj\Debug\LoginScreen.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\login\LoginScreen\LoginScreen\obj\Debug\LoginScreen.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Downloads\login\LoginScreen\LoginScreen\obj\Debug\LoginScreen.frmLogin.resources
+C:\Users\User\Downloads\login\LoginScreen\LoginScreen\obj\Debug\LoginScreen.Form2.resources
+C:\Users\User\Downloads\login\LoginScreen\LoginScreen\obj\Debug\LoginScreen.Properties.Resources.resources
+C:\Users\User\Downloads\login\LoginScreen\LoginScreen\obj\Debug\LoginScreen.csproj.GenerateResource.cache
+C:\Users\User\Downloads\login\LoginScreen\LoginScreen\obj\Debug\LoginScreen.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\login\LoginScreen\LoginScreen\obj\Debug\LoginScreen.exe
+C:\Users\User\Downloads\login\LoginScreen\LoginScreen\obj\Debug\LoginScreen.pdb

@@ -1,0 +1,12 @@
+C:\Users\User\Downloads\login\LoginScreen\LoginScreen\obj\Debug\Project1.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\login\LoginScreen\LoginScreen\obj\Debug\Project1.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Downloads\login\LoginScreen\LoginScreen\obj\Debug\LoginScreen.frmLogin.resources
+C:\Users\User\Downloads\login\LoginScreen\LoginScreen\obj\Debug\LoginScreen.Form2.resources
+C:\Users\User\Downloads\login\LoginScreen\LoginScreen\obj\Debug\Project1.csproj.GenerateResource.cache
+C:\Users\User\Downloads\login\LoginScreen\LoginScreen\obj\Debug\LoginScreen.exe
+C:\Users\User\Downloads\login\LoginScreen\LoginScreen\obj\Debug\LoginScreen.pdb
+C:\Users\User\Downloads\login\LoginScreen\LoginScreen\bin\Debug\LoginScreen.exe.config
+C:\Users\User\Downloads\login\LoginScreen\LoginScreen\bin\Debug\LoginScreen.exe
+C:\Users\User\Downloads\login\LoginScreen\LoginScreen\bin\Debug\LoginScreen.pdb
+C:\Users\User\Downloads\login\LoginScreen\LoginScreen\obj\Debug\LoginScreen.Properties.Resources.resources
+C:\Users\User\Downloads\login\LoginScreen\LoginScreen\obj\Debug\Project1.csproj.CoreCompileInputs.cache
